@@ -4,6 +4,7 @@
   <title>@yield('title', 'Weibo App') - Laravel 入门教程</title>
 {{--  <link rel="stylesheet" href="/css/bootstrap.min.css">--}}
   <link rel="stylesheet" href="/css/app.css">
+
 </head>
 <body>
 
@@ -15,4 +16,5 @@
   @include('layouts._footer')
 </div>
 </body>
+<script src="/js/app.js"></script>
 </html>
