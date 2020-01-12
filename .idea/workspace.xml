@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f07dc24d-ce1f-4f78-a650-c6c07203ae69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +181,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="352" y="70" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578838346106">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="352" y="70" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1399.877@0.23.1399.877" timestamp="1578838346106" />
     <state x="370" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1578817627688">
       <screen x="0" y="23" width="1399" height="877" />
     </state>
