@@ -14,7 +14,10 @@ class DatabaseSeeder extends Seeder
     {
         //关闭安全保护
          Model::unguard();
+
          $this->call(UsersTableSeeder::class);
+         $this->call(StatusesTableSeeder::class);
+
          //打开安全保护
          Model::reguard();
     }
